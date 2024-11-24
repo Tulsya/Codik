@@ -1,2 +1,9 @@
 ﻿  ConsoleApplication2.cpp
+<<<<<<< HEAD
   ConsoleApplication2.vcxproj -> C:\Users\ASUS\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
+=======
+C:\Users\ASUS\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(33,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ASUS\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(28,9): warning C4101: massive1: неиспользованная локальная переменная
+C:\Users\ASUS\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(94,1): warning C4715: find_min_max: значение возвращается не при всех путях выполнения
+LINK : fatal error LNK1168: не удается открыть C:\Users\ASUS\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe для записи
+>>>>>>> 9be192670832012504b23aac3c3b4a835026e311
